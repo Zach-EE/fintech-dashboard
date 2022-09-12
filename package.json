@@ -1,7 +1,7 @@
 {
-  "name": "crypto-dashboard",
+  "name": "fintech-dashboard",
   "version": "1.0.0",
-  "description": "Crypto Dashboard",
+  "description": "Fintech Dashboard",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --open --hot",
